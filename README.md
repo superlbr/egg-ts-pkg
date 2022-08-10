@@ -4,8 +4,8 @@
     sh build.sh
 
 ## TIP
-1. egg-scripts (lib/cmd/start.js in node_modules)
-    // execArgvObj.deprecation = false
+1. egg-scripts (lib/cmd/start.js in node_modules)  
+    // execArgvObj.deprecation = false  
     // execArgvObj.traceWarnings = false
 
 ## 参考
